@@ -2,100 +2,100 @@ about:
   description: "Branchable computing by using a portable, lightweight, self-contained virtual machine"
   license: Apache-2.0
   homepage: https://smolmachines.com
-  head: 8dd8b18
+  head: 5e713c6
   archived: false
   latestVersion: "v1.14.6"
   latestRelease: "v1.14.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T03:42:20Z
+  collectedAt: 2026-09-11T20:44:01Z
 timeline:
   created: 2025-12-18
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-10
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 6021
+  star: 6027
   watcher: 16
   fork: 285
   release: 132
   contributor: 43
-  pullRequest: 996
+  pullRequest: 1001
   issue: 215
 language:
-  Rust: 7708497
+  Rust: 7730858
   Shell: 690460
   Python: 85597
   TypeScript: 48387
   C: 31441
   HTML: 24041
-  Nix: 13058
+  Nix: 13431
   CSS: 734
-totalBytes: 8602215
+totalBytes: 8624949
 recent:
   last30d:
     since: 2026-08-12
     release: 23
-    mergedPR: 206
+    mergedPR: 211
     openPR: 18
-    closedIssue: 53
-    openIssue: 12
-    commit: 200
+    closedIssue: 54
+    openIssue: 11
+    commit: 204
   last60d:
     since: 2026-07-13
     release: 44
-    mergedPR: 432
+    mergedPR: 437
     openPR: 31
-    closedIssue: 86
-    openIssue: 18
-    commit: 400
+    closedIssue: 87
+    openIssue: 17
+    commit: 404
   last90d:
     since: 2026-06-13
     release: 76
-    mergedPR: 615
+    mergedPR: 620
     openPR: 35
-    closedIssue: 108
-    openIssue: 20
-    commit: 697
+    closedIssue: 110
+    openIssue: 18
+    commit: 701
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 842
+    mergedPR: 847
     openPR: 48
-    closedIssue: 179
-    openIssue: 26
-    commit: 1069
+    closedIssue: 181
+    openIssue: 24
+    commit: 1073
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 862
+    mergedPR: 867
     openPR: 49
-    closedIssue: 188
-    openIssue: 27
-    commit: 1358
+    closedIssue: 190
+    openIssue: 25
+    commit: 1362
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 862
+    mergedPR: 867
     openPR: 49
-    closedIssue: 188
-    openIssue: 27
-    commit: 1478
+    closedIssue: 190
+    openIssue: 25
+    commit: 1482
 total:
   release: 132
-  mergedPR: 862
+  mergedPR: 867
   openPR: 49
-  closedIssue: 188
-  openIssue: 27
-  commit: 1478
+  closedIssue: 190
+  openIssue: 25
+  commit: 1482
 ---
 path: /home/runner/.x-repo/github.com/smol-machines/smolvm
-collectedAt: 2026-09-11T03:42:38Z
+collectedAt: 2026-09-11T20:44:10Z
 loc:
   Rust:
-    code: 151691
-    comments: 12760
-    blanks: 14117
+    code: 152020
+    comments: 12792
+    blanks: 14149
     files: 226
   Sh:
     code: 12560
@@ -129,7 +129,7 @@ loc:
     files: 21
   Nix:
     code: 406
-    comments: 33
+    comments: 38
     blanks: 48
     files: 4
   Html:
@@ -158,9 +158,9 @@ loc:
     blanks: 2
     files: 8
 total:
-  code: 172060
-  comments: 41732
-  blanks: 20404
+  code: 172389
+  comments: 41865
+  blanks: 20445
   files: 439
 ---
 
