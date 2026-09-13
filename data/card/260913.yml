@@ -1,0 +1,167 @@
+about:
+  description: "Branchable computing by using a portable, lightweight, self-contained virtual machine"
+  license: Apache-2.0
+  homepage: https://smolmachines.com
+  head: e1dd54b
+  archived: false
+  latestVersion: "v1.16.0"
+  latestRelease: "v1.16.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-13T06:46:05Z
+timeline:
+  created: 2025-12-18
+  lastCommit: 2026-09-13
+  lastVersion: 2026-09-13
+  lastRelease: 2026-09-13
+  lastPrerelease: 
+popularity:
+  star: 6042
+  watcher: 16
+  fork: 286
+  release: 135
+  contributor: 43
+  pullRequest: 1010
+  issue: 215
+language:
+  Rust: 7807060
+  Shell: 695785
+  Python: 90412
+  TypeScript: 48387
+  C: 31441
+  HTML: 24041
+  Nix: 13431
+  CSS: 734
+totalBytes: 8711291
+recent:
+  last30d:
+    since: 2026-08-14
+    release: 24
+    mergedPR: 209
+    openPR: 18
+    closedIssue: 52
+    openIssue: 10
+    commit: 174
+  last60d:
+    since: 2026-07-15
+    release: 46
+    mergedPR: 423
+    openPR: 29
+    closedIssue: 84
+    openIssue: 17
+    commit: 354
+  last90d:
+    since: 2026-06-15
+    release: 78
+    mergedPR: 616
+    openPR: 34
+    closedIssue: 106
+    openIssue: 18
+    commit: 671
+  last180d:
+    since: 2026-03-17
+    release: 100
+    mergedPR: 855
+    openPR: 48
+    closedIssue: 181
+    openIssue: 24
+    commit: 1076
+  last360d:
+    since: 2025-09-18
+    release: 100
+    mergedPR: 876
+    openPR: 49
+    closedIssue: 190
+    openIssue: 25
+    commit: 1371
+  last720d:
+    since: 2024-09-23
+    release: 100
+    mergedPR: 876
+    openPR: 49
+    closedIssue: 190
+    openIssue: 25
+    commit: 1491
+total:
+  release: 135
+  mergedPR: 876
+  openPR: 49
+  closedIssue: 190
+  openIssue: 25
+  commit: 1491
+---
+path: /home/runner/.x-repo/github.com/smol-machines/smolvm
+collectedAt: 2026-09-13T06:46:15Z
+loc:
+  Rust:
+    code: 153721
+    comments: 12845
+    blanks: 14235
+    files: 229
+  Sh:
+    code: 12639
+    comments: 3322
+    blanks: 2680
+    files: 77
+  Python:
+    code: 2348
+    comments: 52
+    blanks: 282
+    files: 17
+  Json:
+    code: 1412
+    comments: 0
+    blanks: 0
+    files: 18
+  TypeScript:
+    code: 1233
+    comments: 303
+    blanks: 212
+    files: 21
+  C:
+    code: 704
+    comments: 65
+    blanks: 84
+    files: 7
+  Toml:
+    code: 658
+    comments: 98
+    blanks: 88
+    files: 21
+  Nix:
+    code: 406
+    comments: 38
+    blanks: 48
+    files: 4
+  Html:
+    code: 172
+    comments: 0
+    blanks: 7
+    files: 7
+  Yaml:
+    code: 89
+    comments: 48
+    blanks: 3
+    files: 3
+  Css:
+    code: 24
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3643
+    blanks: 885
+    files: 32
+  Text:
+    code: 0
+    comments: 3209
+    blanks: 2
+    files: 8
+total:
+  code: 174262
+  comments: 42062
+  blanks: 20576
+  files: 445
+---
+
+---

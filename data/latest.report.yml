@@ -2,111 +2,111 @@ about:
   description: "Branchable computing by using a portable, lightweight, self-contained virtual machine"
   license: Apache-2.0
   homepage: https://smolmachines.com
-  head: a311ec2
+  head: e1dd54b
   archived: false
-  latestVersion: "v1.15.0"
-  latestRelease: "v1.15.0"
+  latestVersion: "v1.16.0"
+  latestRelease: "v1.16.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-12T06:30:12Z
+  collectedAt: 2026-09-13T06:46:05Z
 timeline:
   created: 2025-12-18
-  lastCommit: 2026-09-11
-  lastVersion: 2026-09-11
-  lastRelease: 2026-09-11
+  lastCommit: 2026-09-13
+  lastVersion: 2026-09-13
+  lastRelease: 2026-09-13
   lastPrerelease: 
 popularity:
-  star: 6029
+  star: 6042
   watcher: 16
-  fork: 285
-  release: 133
+  fork: 286
+  release: 135
   contributor: 43
-  pullRequest: 1002
+  pullRequest: 1010
   issue: 215
 language:
-  Rust: 7730858
-  Shell: 690460
-  Python: 85597
+  Rust: 7807060
+  Shell: 695785
+  Python: 90412
   TypeScript: 48387
   C: 31441
   HTML: 24041
   Nix: 13431
   CSS: 734
-totalBytes: 8624949
+totalBytes: 8711291
 recent:
   last30d:
-    since: 2026-08-13
-    release: 23
-    mergedPR: 206
+    since: 2026-08-14
+    release: 24
+    mergedPR: 209
     openPR: 18
-    closedIssue: 53
-    openIssue: 11
-    commit: 205
+    closedIssue: 52
+    openIssue: 10
+    commit: 174
   last60d:
-    since: 2026-07-14
-    release: 45
-    mergedPR: 429
-    openPR: 31
-    closedIssue: 87
+    since: 2026-07-15
+    release: 46
+    mergedPR: 423
+    openPR: 29
+    closedIssue: 84
     openIssue: 17
-    commit: 405
+    commit: 354
   last90d:
-    since: 2026-06-14
-    release: 77
-    mergedPR: 617
+    since: 2026-06-15
+    release: 78
+    mergedPR: 616
     openPR: 34
-    closedIssue: 108
+    closedIssue: 106
     openIssue: 18
-    commit: 702
+    commit: 671
   last180d:
-    since: 2026-03-16
+    since: 2026-03-17
     release: 100
-    mergedPR: 847
+    mergedPR: 855
     openPR: 48
     closedIssue: 181
     openIssue: 24
-    commit: 1074
+    commit: 1076
   last360d:
-    since: 2025-09-17
+    since: 2025-09-18
     release: 100
-    mergedPR: 868
+    mergedPR: 876
     openPR: 49
     closedIssue: 190
     openIssue: 25
-    commit: 1363
+    commit: 1371
   last720d:
-    since: 2024-09-22
+    since: 2024-09-23
     release: 100
-    mergedPR: 868
+    mergedPR: 876
     openPR: 49
     closedIssue: 190
     openIssue: 25
-    commit: 1483
+    commit: 1491
 total:
-  release: 133
-  mergedPR: 868
+  release: 135
+  mergedPR: 876
   openPR: 49
   closedIssue: 190
   openIssue: 25
-  commit: 1483
+  commit: 1491
 ---
 path: /home/runner/.x-repo/github.com/smol-machines/smolvm
-collectedAt: 2026-09-12T06:30:19Z
+collectedAt: 2026-09-13T06:46:15Z
 loc:
   Rust:
-    code: 152020
-    comments: 12792
-    blanks: 14149
-    files: 226
+    code: 153721
+    comments: 12845
+    blanks: 14235
+    files: 229
   Sh:
-    code: 12560
-    comments: 3317
-    blanks: 2673
-    files: 76
+    code: 12639
+    comments: 3322
+    blanks: 2680
+    files: 77
   Python:
-    code: 2256
-    comments: 51
-    blanks: 272
-    files: 16
+    code: 2348
+    comments: 52
+    blanks: 282
+    files: 17
   Json:
     code: 1412
     comments: 0
@@ -123,7 +123,7 @@ loc:
     blanks: 84
     files: 7
   Toml:
-    code: 657
+    code: 658
     comments: 98
     blanks: 88
     files: 21
@@ -149,20 +149,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3565
-    blanks: 862
-    files: 31
+    comments: 3643
+    blanks: 885
+    files: 32
   Text:
     code: 0
     comments: 3209
     blanks: 2
     files: 8
 total:
-  code: 172389
-  comments: 41865
-  blanks: 20445
-  files: 439
+  code: 174262
+  comments: 42062
+  blanks: 20576
+  files: 445
 ---
 
 ---
-{"id":387350533,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQrXKJc4XFoAF","tag_name":"v1.15.0","target_commitish":"main","name":"smolvm v1.15.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-11T21:14:35Z","updated_at":"2026-09-11T21:39:01Z","published_at":"2026-09-11T21:39:01Z","assets":[{"id":558060932,"node_id":"RA_kwDOQrXKJc4hQ1WE","name":"checksums.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":398,"digest":"sha256:bbf5e821fd8497aca7f1b76e0035ad55189d2b2f06fe638a1a115ca6cb665bcf","download_count":19,"created_at":"2026-09-11T21:38:59Z","updated_at":"2026-09-11T21:38:59Z"},{"id":558060930,"node_id":"RA_kwDOQrXKJc4hQ1WC","name":"smolvm-1.15.0-darwin-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":37805683,"digest":"sha256:cde38584d29d011d781ed77cc3468a04a69c6c29c06e89a879030ddf61e954ba","download_count":13,"created_at":"2026-09-11T21:38:59Z","updated_at":"2026-09-11T21:39:01Z"},{"id":558060931,"node_id":"RA_kwDOQrXKJc4hQ1WD","name":"smolvm-1.15.0-linux-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":40152858,"digest":"sha256:01b07003480828cd954056da9edbe5b46cfe6050a5c337c9d1f52e35063f6e07","download_count":10,"created_at":"2026-09-11T21:38:59Z","updated_at":"2026-09-11T21:39:01Z"},{"id":558060929,"node_id":"RA_kwDOQrXKJc4hQ1WB","name":"smolvm-1.15.0-linux-x86_64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":41328022,"digest":"sha256:65106527c0cf97e7924d86e968e402841a61aa5b867b6bc7e0fd30be1d0bd0b2","download_count":13,"created_at":"2026-09-11T21:38:59Z","updated_at":"2026-09-11T21:39:01Z"},{"id":558060933,"node_id":"RA_kwDOQrXKJc4hQ1WF","name":"smolvm-1.15.0-windows-x86_64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":40105610,"digest":"sha256:8ee2b0723297b3fb9568c7aa4e8d61649e06842328391ce422fec7dc30823d7f","download_count":7,"created_at":"2026-09-11T21:38:59Z","updated_at":"2026-09-11T21:39:01Z"}],"body":"## What's Changed\n* README: the virglrenderer loader path for Nix and NixOS hosts by @NickyHeC in https://github.com/smol-machines/smolvm/pull/1224\n* Fix the flake's release hashes and stop the cut from half-bumping nix/smolvm.nix by @NickyHeC in https://github.com/smol-machines/smolvm/pull/1225\n* Surface the guest console in a boot failure so the real reason is not lost by @NickyHeC in https://github.com/smol-machines/smolvm/pull/1229\n* Make a smaller storage disk work for a Nix install on macOS by @NickyHeC in https://github.com/smol-machines/smolvm/pull/1227\n* Report a machine's real memory in status by asking the guest instead of the host by @BinSquare in https://github.com/smol-machines/smolvm/pull/1230\n* Let a machine run its own hypervisor by exposing the host's virtualization extensions by @BinSquare in https://github.com/smol-machines/smolvm/pull/1231\n\n\n**Full Changelog**: https://github.com/smol-machines/smolvm/compare/v1.14.6...v1.15.0","mentions_count":2}
+{"id":387800888,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOQrXKJc4XHV84","tag_name":"v1.16.0","target_commitish":"main","name":"smolvm v1.16.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-13T04:58:37Z","updated_at":"2026-09-13T05:22:38Z","published_at":"2026-09-13T05:22:38Z","assets":[{"id":560626769,"node_id":"RA_kwDOQrXKJc4hanxR","name":"checksums.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":398,"digest":"sha256:4622707fb8998eb9899bfc9116d0d8301f84a61e9058673d64b2fdb42c15c6de","download_count":5,"created_at":"2026-09-13T05:22:36Z","updated_at":"2026-09-13T05:22:36Z"},{"id":560626765,"node_id":"RA_kwDOQrXKJc4hanxN","name":"smolvm-1.16.0-darwin-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":37916242,"digest":"sha256:7be55af510b698bb95c9e9b103004c81f75cacfaa62b00aaf554441e9023353b","download_count":3,"created_at":"2026-09-13T05:22:35Z","updated_at":"2026-09-13T05:22:38Z"},{"id":560626772,"node_id":"RA_kwDOQrXKJc4hanxU","name":"smolvm-1.16.0-linux-arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":40273329,"digest":"sha256:5824fa3c830c0d7861307a10eb09d10baf327e7a07c7697f2769fee796ded1db","download_count":5,"created_at":"2026-09-13T05:22:36Z","updated_at":"2026-09-13T05:22:37Z"},{"id":560626766,"node_id":"RA_kwDOQrXKJc4hanxO","name":"smolvm-1.16.0-linux-x86_64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":41457965,"digest":"sha256:cb7d6ea34914b4d71958e16eafc8a3220fe9e8cd5b76fa983ef9f648159f4c9b","download_count":15,"created_at":"2026-09-13T05:22:35Z","updated_at":"2026-09-13T05:22:37Z"},{"id":560626767,"node_id":"RA_kwDOQrXKJc4hanxP","name":"smolvm-1.16.0-windows-x86_64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":40224483,"digest":"sha256:8ad37bab044b7b9930f22b95158e9189958fd99cd5e2b382c6cf596daccf871a","download_count":1,"created_at":"2026-09-13T05:22:36Z","updated_at":"2026-09-13T05:22:38Z"}],"body":"## What's Changed\n* Forget externally deleted machines in the API supervisor by @BinSquare in https://github.com/smol-machines/smolvm/pull/1241\n* Fix scoped memory, UID-isolated checkpoints, and VM restart safety by @BinSquare in https://github.com/smol-machines/smolvm/pull/1240\n* Add incremental live-checkpoint storage by @BinSquare in https://github.com/smol-machines/smolvm/pull/1232\n* Bump the workspace to 1.16.0 by @BinSquare in https://github.com/smol-machines/smolvm/pull/1242\n\n\n**Full Changelog**: https://github.com/smol-machines/smolvm/compare/v1.15.1...v1.16.0","mentions_count":1}
