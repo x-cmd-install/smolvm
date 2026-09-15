@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 398,
       "digest": "sha256:4622707fb8998eb9899bfc9116d0d8301f84a61e9058673d64b2fdb42c15c6de",
-      "download_count": 61,
+      "download_count": 106,
       "created_at": "2026-09-13T05:22:36Z",
       "updated_at": "2026-09-13T05:22:36Z",
       "browser_download_url": "https://github.com/smol-machines/smolvm/releases/download/v1.16.0/checksums.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 37916242,
       "digest": "sha256:7be55af510b698bb95c9e9b103004c81f75cacfaa62b00aaf554441e9023353b",
-      "download_count": 43,
+      "download_count": 68,
       "created_at": "2026-09-13T05:22:35Z",
       "updated_at": "2026-09-13T05:22:38Z",
       "browser_download_url": "https://github.com/smol-machines/smolvm/releases/download/v1.16.0/smolvm-1.16.0-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 40273329,
       "digest": "sha256:5824fa3c830c0d7861307a10eb09d10baf327e7a07c7697f2769fee796ded1db",
-      "download_count": 17,
+      "download_count": 27,
       "created_at": "2026-09-13T05:22:36Z",
       "updated_at": "2026-09-13T05:22:37Z",
       "browser_download_url": "https://github.com/smol-machines/smolvm/releases/download/v1.16.0/smolvm-1.16.0-linux-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 41457965,
       "digest": "sha256:cb7d6ea34914b4d71958e16eafc8a3220fe9e8cd5b76fa983ef9f648159f4c9b",
-      "download_count": 56,
+      "download_count": 92,
       "created_at": "2026-09-13T05:22:35Z",
       "updated_at": "2026-09-13T05:22:37Z",
       "browser_download_url": "https://github.com/smol-machines/smolvm/releases/download/v1.16.0/smolvm-1.16.0-linux-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 40224483,
       "digest": "sha256:8ad37bab044b7b9930f22b95158e9189958fd99cd5e2b382c6cf596daccf871a",
-      "download_count": 20,
+      "download_count": 27,
       "created_at": "2026-09-13T05:22:36Z",
       "updated_at": "2026-09-13T05:22:38Z",
       "browser_download_url": "https://github.com/smol-machines/smolvm/releases/download/v1.16.0/smolvm-1.16.0-windows-x86_64.zip"
