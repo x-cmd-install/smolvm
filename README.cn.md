@@ -4,7 +4,7 @@
 
 Branchable computing by using a portable, lightweight, self-contained virtual machine
 
-![smolvm](https://repo.x-cmd.io/smolvm.svg?lang=zh)
+[![x-cmd/install — smolvm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/smolvm.svg?lang=zh)](https://x-cmd.com/install/smolvm)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install smolvm
 
 ## 代码洞察
 
-合计: **182,831** 行代码（覆盖前 5 种语言、共 **371** 个文件）。
+合计: **184,141** 行代码（覆盖前 5 种语言、共 **377** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 162,714 | 13,185 | 14,736 | 233 |
-| Sh | 12,715 | 3,327 | 2,683 | 78 |
-| Python | 2,696 | 56 | 322 | 21 |
+| Rust | 163,816 | 13,323 | 14,825 | 237 |
+| Sh | 12,798 | 3,339 | 2,690 | 78 |
+| Python | 2,799 | 56 | 322 | 23 |
 | Json | 1,412 | 0 | 0 | 18 |
 | TypeScript | 1,233 | 303 | 212 | 21 |
 
@@ -32,38 +32,38 @@ x install smolvm
 
 ## 发布
 
-- **最新版本**: `v1.16.1` (2026-09-15)
-- **最近提交**: 2026-09-18
+- **最新版本**: `v1.16.2` (2026-09-18)
+- **最近提交**: 2026-09-20
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 6,091 · **Fork**: 293 · **开放 issue**: 225 · **贡献者**: 43
+- **Star**: 6,147 · **Fork**: 296 · **开放 issue**: 228 · **贡献者**: 45
 
 ## 累计统计
 
-- **发布数**: 136 · **已合并 PR**: 927 · **开放 PR**: 53 · **已关闭 issue**: 194 · **开放 issue**: 31 · **提交数**: 1539
+- **发布数**: 137 · **已合并 PR**: 947 · **开放 PR**: 51 · **已关闭 issue**: 196 · **开放 issue**: 32 · **提交数**: 1558
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 22 | 224 | 30 | 43 | 12 | 222 |
-| last60d | 2026-07-20 | 34 | 437 | 39 | 85 | 23 | 402 |
-| 90d | 2026-06-20 | 77 | 657 | 46 | 110 | 24 | 719 |
-| last180d | 2026-03-22 | 100 | 905 | 53 | 183 | 30 | 1124 |
-| 360d | 2025-09-23 | 100 | 927 | 53 | 194 | 31 | 1419 |
-| last720d | 2024-09-28 | 100 | 927 | 53 | 194 | 31 | 1539 |
+| 30d | 2026-08-21 | 22 | 229 | 29 | 37 | 13 | 0 |
+| last60d | 2026-07-22 | 35 | 433 | 35 | 86 | 23 | 0 |
+| 90d | 2026-06-22 | 77 | 662 | 44 | 107 | 25 | 0 |
+| last180d | 2026-03-24 | 100 | 925 | 51 | 185 | 31 | 0 |
+| 360d | 2025-09-25 | 100 | 947 | 51 | 196 | 32 | 0 |
+| last720d | 2024-09-30 | 100 | 947 | 51 | 196 | 32 | 1558 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.16.1/checksums.sha256) | 398 B | `other` |
-| [smolvm-1.16.1-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.16.1/smolvm-1.16.1-darwin-arm64.tar.gz) | 36.3 MiB | `native/darwin/arm64` |
-| [smolvm-1.16.1-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.16.1/smolvm-1.16.1-linux-arm64.tar.gz) | 38.6 MiB | `native/linux/arm64` |
-| [smolvm-1.16.1-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.16.1/smolvm-1.16.1-linux-x86_64.tar.gz) | 39.8 MiB | `native/linux/x64` |
-| [smolvm-1.16.1-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.16.1/smolvm-1.16.1-windows-x86_64.zip) | 38.5 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.16.2/checksums.sha256) | 398 B | `other` |
+| [smolvm-1.16.2-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.16.2/smolvm-1.16.2-darwin-arm64.tar.gz) | 36.4 MiB | `native/darwin/arm64` |
+| [smolvm-1.16.2-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.16.2/smolvm-1.16.2-linux-arm64.tar.gz) | 38.8 MiB | `native/linux/arm64` |
+| [smolvm-1.16.2-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.16.2/smolvm-1.16.2-linux-x86_64.tar.gz) | 40.0 MiB | `native/linux/x64` |
+| [smolvm-1.16.2-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.16.2/smolvm-1.16.2-windows-x86_64.zip) | 38.6 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ smolvm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:41:59Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T07:00:43Z._
