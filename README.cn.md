@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Branchable computing by using a portable, lightweight, self-contained virtual machine
+An embeddable, portable, branchable virtual machine to safely run Agents locally.
 
 [![x-cmd/install — smolvm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/smolvm.svg?lang=zh)](https://x-cmd.com/install/smolvm)
 
@@ -14,11 +14,11 @@ x install smolvm
 
 ## 代码洞察
 
-合计: **184,141** 行代码（覆盖前 5 种语言、共 **377** 个文件）。
+合计: **184,726** 行代码（覆盖前 5 种语言、共 **379** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 163,816 | 13,323 | 14,825 | 237 |
+| Rust | 164,401 | 13,340 | 14,854 | 239 |
 | Sh | 12,798 | 3,339 | 2,690 | 78 |
 | Python | 2,799 | 56 | 322 | 23 |
 | Json | 1,412 | 0 | 0 | 18 |
@@ -38,22 +38,22 @@ x install smolvm
 
 ## 流行度
 
-- **Star**: 6,147 · **Fork**: 296 · **开放 issue**: 228 · **贡献者**: 45
+- **Star**: 6,205 · **Fork**: 297 · **开放 issue**: 228 · **贡献者**: 45
 
 ## 累计统计
 
-- **发布数**: 137 · **已合并 PR**: 947 · **开放 PR**: 51 · **已关闭 issue**: 196 · **开放 issue**: 32 · **提交数**: 1558
+- **发布数**: 137 · **已合并 PR**: 949 · **开放 PR**: 48 · **已关闭 issue**: 197 · **开放 issue**: 31 · **提交数**: 1560
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 22 | 229 | 29 | 37 | 13 | 0 |
-| last60d | 2026-07-22 | 35 | 433 | 35 | 86 | 23 | 0 |
-| 90d | 2026-06-22 | 77 | 662 | 44 | 107 | 25 | 0 |
-| last180d | 2026-03-24 | 100 | 925 | 51 | 185 | 31 | 0 |
-| 360d | 2025-09-25 | 100 | 947 | 51 | 196 | 32 | 0 |
-| last720d | 2024-09-30 | 100 | 947 | 51 | 196 | 32 | 1558 |
+| 30d | 2026-08-22 | 20 | 227 | 26 | 38 | 12 | 179 |
+| last60d | 2026-07-23 | 35 | 433 | 32 | 87 | 20 | 376 |
+| 90d | 2026-06-23 | 74 | 659 | 41 | 107 | 24 | 672 |
+| last180d | 2026-03-25 | 100 | 926 | 48 | 186 | 30 | 1138 |
+| 360d | 2025-09-26 | 100 | 949 | 48 | 197 | 31 | 1440 |
+| last720d | 2024-10-01 | 100 | 949 | 48 | 197 | 31 | 1560 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ smolvm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T07:00:43Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T07:09:42Z._
