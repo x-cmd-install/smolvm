@@ -4,7 +4,7 @@
 
 An embeddable, portable, branchable virtual machine to safely run Agents locally.
 
-[![x-cmd/install — smolvm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/smolvm.svg)](https://x-cmd.com/install/smolvm)
+[![x-cmd/install — smolvm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/smolvm.svg)](https://x-cmd.com/install/smolvm)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install smolvm
 
 ## Code insight
 
-Total: **184,726** lines of code across **379** files in the top 5 languages.
+Total: **187,140** lines of code across **379** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 164,401 | 13,340 | 14,854 | 239 |
-| Sh | 12,798 | 3,339 | 2,690 | 78 |
+| Rust | 166,799 | 13,430 | 14,964 | 239 |
+| Sh | 12,814 | 3,343 | 2,693 | 78 |
 | Python | 2,799 | 56 | 322 | 23 |
 | Json | 1,412 | 0 | 0 | 18 |
 | TypeScript | 1,233 | 303 | 212 | 21 |
@@ -33,27 +33,27 @@ Total: **184,726** lines of code across **379** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.17.0` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,247 · **Forks**: 299 · **Open issues**: 228 · **Contributors**: 45
+- **Stars**: 6,286 · **Forks**: 302 · **Open issues**: 232 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 950 · **Open PRs**: 48 · **Closed issues**: 197 · **Open issues**: 31 · **Commits**: 1561
+- **Releases**: 138 · **Merged PRs**: 959 · **Open PRs**: 50 · **Closed issues**: 199 · **Open issues**: 33 · **Commits**: 1570
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 20 | 218 | 26 | 37 | 12 | 180 |
-| last60d | 2026-07-24 | 36 | 427 | 32 | 87 | 20 | 377 |
-| 90d | 2026-06-24 | 72 | 653 | 41 | 107 | 24 | 673 |
-| last180d | 2026-03-26 | 100 | 926 | 48 | 186 | 30 | 1139 |
-| 360d | 2025-09-27 | 100 | 950 | 48 | 197 | 31 | 1441 |
-| last720d | 2024-10-02 | 100 | 950 | 48 | 197 | 31 | 1561 |
+| 30d | 2026-08-24 | 18 | 210 | 28 | 38 | 14 | 189 |
+| last60d | 2026-07-25 | 36 | 435 | 34 | 89 | 22 | 386 |
+| 90d | 2026-06-25 | 72 | 657 | 43 | 108 | 26 | 682 |
+| last180d | 2026-03-27 | 100 | 934 | 50 | 188 | 32 | 1148 |
+| 360d | 2025-09-28 | 100 | 959 | 50 | 199 | 33 | 1450 |
+| last720d | 2024-10-03 | 100 | 959 | 50 | 199 | 33 | 1570 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for smolvm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:47:47Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:54:35Z._
