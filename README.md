@@ -14,12 +14,12 @@ x install smolvm
 
 ## Code insight
 
-Total: **187,140** lines of code across **379** files in the top 5 languages.
+Total: **190,422** lines of code across **389** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 166,799 | 13,430 | 14,964 | 239 |
-| Sh | 12,814 | 3,343 | 2,693 | 78 |
+| Rust | 170,022 | 13,508 | 15,217 | 249 |
+| Sh | 12,839 | 3,344 | 2,694 | 78 |
 | Python | 2,799 | 56 | 322 | 23 |
 | Json | 1,412 | 0 | 0 | 18 |
 | TypeScript | 1,233 | 303 | 212 | 21 |
@@ -32,38 +32,38 @@ Total: **187,140** lines of code across **379** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.17.0` (2026-09-21)
-- **Last commit**: 2026-09-23
+- **Latest**: `v1.18.0` (2026-09-24)
+- **Last commit**: 2026-09-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,286 · **Forks**: 302 · **Open issues**: 232 · **Contributors**: 45
+- **Stars**: 6,315 · **Forks**: 305 · **Open issues**: 238 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 959 · **Open PRs**: 50 · **Closed issues**: 199 · **Open issues**: 33 · **Commits**: 1570
+- **Releases**: 139 · **Merged PRs**: 969 · **Open PRs**: 52 · **Closed issues**: 202 · **Open issues**: 36 · **Commits**: 1580
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 18 | 210 | 28 | 38 | 14 | 189 |
-| last60d | 2026-07-25 | 36 | 435 | 34 | 89 | 22 | 386 |
-| 90d | 2026-06-25 | 72 | 657 | 43 | 108 | 26 | 682 |
-| last180d | 2026-03-27 | 100 | 934 | 50 | 188 | 32 | 1148 |
-| 360d | 2025-09-28 | 100 | 959 | 50 | 199 | 33 | 1450 |
-| last720d | 2024-10-03 | 100 | 959 | 50 | 199 | 33 | 1570 |
+| 30d | 2026-08-25 | 16 | 216 | 30 | 39 | 17 | 199 |
+| last60d | 2026-07-26 | 37 | 443 | 36 | 92 | 25 | 396 |
+| 90d | 2026-06-26 | 72 | 663 | 45 | 109 | 29 | 692 |
+| last180d | 2026-03-28 | 100 | 944 | 52 | 191 | 35 | 1158 |
+| 360d | 2025-09-29 | 100 | 969 | 52 | 202 | 36 | 1460 |
+| last720d | 2024-10-04 | 100 | 969 | 52 | 202 | 36 | 1580 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.17.0/checksums.sha256) | 398 B | `other` |
-| [smolvm-1.17.0-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.17.0/smolvm-1.17.0-darwin-arm64.tar.gz) | 36.5 MiB | `native/darwin/arm64` |
-| [smolvm-1.17.0-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.17.0/smolvm-1.17.0-linux-arm64.tar.gz) | 38.9 MiB | `native/linux/arm64` |
-| [smolvm-1.17.0-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.17.0/smolvm-1.17.0-linux-x86_64.tar.gz) | 40.0 MiB | `native/linux/x64` |
-| [smolvm-1.17.0-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.17.0/smolvm-1.17.0-windows-x86_64.zip) | 38.7 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.18.0/checksums.sha256) | 398 B | `other` |
+| [smolvm-1.18.0-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.18.0/smolvm-1.18.0-darwin-arm64.tar.gz) | 36.9 MiB | `native/darwin/arm64` |
+| [smolvm-1.18.0-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.18.0/smolvm-1.18.0-linux-arm64.tar.gz) | 40.9 MiB | `native/linux/arm64` |
+| [smolvm-1.18.0-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.18.0/smolvm-1.18.0-linux-x86_64.tar.gz) | 42.1 MiB | `native/linux/x64` |
+| [smolvm-1.18.0-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.18.0/smolvm-1.18.0-windows-x86_64.zip) | 39.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for smolvm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:54:35Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T06:44:39Z._
