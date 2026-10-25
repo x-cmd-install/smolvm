@@ -14,11 +14,11 @@ x install smolvm
 
 ## 代码洞察
 
-合计: **247,856** 行代码（覆盖前 5 种语言、共 **462** 个文件）。
+合计: **249,264** 行代码（覆盖前 5 种语言、共 **463** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 224,393 | 15,673 | 18,783 | 295 |
+| Rust | 225,801 | 15,730 | 18,874 | 296 |
 | Sh | 17,677 | 4,459 | 3,198 | 124 |
 | Python | 2,186 | 83 | 245 | 24 |
 | Json | 1,250 | 0 | 0 | 11 |
@@ -32,38 +32,38 @@ x install smolvm
 
 ## 发布
 
-- **最新版本**: `v1.32.1` (2026-10-24)
-- **最近提交**: 2026-10-24
+- **最新版本**: `v1.32.2` (2026-10-25)
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 6,822 · **Fork**: 338 · **开放 issue**: 300 · **贡献者**: 60
+- **Star**: 6,832 · **Fork**: 338 · **开放 issue**: 300 · **贡献者**: 60
 
 ## 累计统计
 
-- **发布数**: 190 · **已合并 PR**: 1469 · **开放 PR**: 43 · **已关闭 issue**: 272 · **开放 issue**: 28 · **提交数**: 2101
+- **发布数**: 191 · **已合并 PR**: 1475 · **开放 PR**: 45 · **已关闭 issue**: 273 · **开放 issue**: 27 · **提交数**: 2107
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 52 | 465 | 26 | 48 | 12 | 479 |
-| last60d | 2026-08-25 | 67 | 716 | 36 | 101 | 17 | 712 |
-| 90d | 2026-07-26 | 88 | 943 | 38 | 158 | 21 | 922 |
-| last180d | 2026-04-27 | 100 | 1337 | 43 | 220 | 25 | 1479 |
-| 360d | 2025-10-29 | 100 | 1469 | 43 | 272 | 28 | 1965 |
-| last720d | 2024-11-03 | 100 | 1469 | 43 | 272 | 28 | 2101 |
+| 30d | 2026-09-25 | 50 | 457 | 28 | 48 | 12 | 390 |
+| last60d | 2026-08-26 | 68 | 715 | 38 | 102 | 16 | 692 |
+| 90d | 2026-07-27 | 89 | 937 | 40 | 156 | 20 | 871 |
+| last180d | 2026-04-28 | 100 | 1341 | 45 | 219 | 24 | 1482 |
+| 360d | 2025-10-30 | 100 | 1475 | 45 | 273 | 27 | 1971 |
+| last720d | 2024-11-04 | 100 | 1475 | 45 | 273 | 27 | 2107 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.32.1/checksums.sha256) | 398 B | `other` |
-| [smolvm-1.32.1-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.32.1/smolvm-1.32.1-darwin-arm64.tar.gz) | 39.3 MiB | `native/darwin/arm64` |
-| [smolvm-1.32.1-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.32.1/smolvm-1.32.1-linux-arm64.tar.gz) | 43.3 MiB | `native/linux/arm64` |
-| [smolvm-1.32.1-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.32.1/smolvm-1.32.1-linux-x86_64.tar.gz) | 45.5 MiB | `native/linux/x64` |
-| [smolvm-1.32.1-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.32.1/smolvm-1.32.1-windows-x86_64.zip) | 41.5 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.32.2/checksums.sha256) | 398 B | `other` |
+| [smolvm-1.32.2-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.32.2/smolvm-1.32.2-darwin-arm64.tar.gz) | 39.3 MiB | `native/darwin/arm64` |
+| [smolvm-1.32.2-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.32.2/smolvm-1.32.2-linux-arm64.tar.gz) | 43.3 MiB | `native/linux/arm64` |
+| [smolvm-1.32.2-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.32.2/smolvm-1.32.2-linux-x86_64.tar.gz) | 45.5 MiB | `native/linux/x64` |
+| [smolvm-1.32.2-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.32.2/smolvm-1.32.2-windows-x86_64.zip) | 41.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ smolvm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261024.yml` · 2026-10-24T06:27:51Z._
+_数据快照: `data/card/261025.yml` · 2026-10-25T06:50:54Z._
