@@ -32,38 +32,38 @@ Total: **265,281** lines of code across **490** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.34.0` (2026-11-08)
+- **Latest**: `v1.34.1` (2026-11-10)
 - **Last commit**: 2026-11-10
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 7,053 · **Forks**: 361 · **Open issues**: 318 · **Contributors**: 67
+- **Stars**: 7,071 · **Forks**: 361 · **Open issues**: 318 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 1562 · **Open PRs**: 72 · **Closed issues**: 282 · **Open issues**: 36 · **Commits**: 2196
+- **Releases**: 196 · **Merged PRs**: 1562 · **Open PRs**: 75 · **Closed issues**: 283 · **Open issues**: 35 · **Commits**: 2196
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 24 | 295 | 48 | 28 | 17 | 221 |
-| last60d | 2026-09-11 | 63 | 687 | 64 | 79 | 24 | 652 |
-| 90d | 2026-08-12 | 86 | 904 | 69 | 141 | 27 | 877 |
-| last180d | 2026-05-14 | 100 | 1404 | 72 | 213 | 32 | 1521 |
-| 360d | 2025-11-15 | 100 | 1560 | 72 | 282 | 36 | 2057 |
-| last720d | 2024-11-20 | 100 | 1560 | 72 | 282 | 36 | 2196 |
+| 30d | 2026-10-12 | 25 | 274 | 50 | 25 | 16 | 221 |
+| last60d | 2026-09-12 | 63 | 684 | 67 | 80 | 23 | 652 |
+| 90d | 2026-08-13 | 86 | 898 | 72 | 141 | 26 | 877 |
+| last180d | 2026-05-15 | 100 | 1404 | 75 | 213 | 31 | 1521 |
+| 360d | 2025-11-16 | 100 | 1560 | 75 | 283 | 35 | 2057 |
+| last720d | 2024-11-21 | 100 | 1560 | 75 | 283 | 35 | 2196 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.34.0/checksums.sha256) | 398 B | `other` |
-| [smolvm-1.34.0-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.34.0/smolvm-1.34.0-darwin-arm64.tar.gz) | 38.9 MiB | `native/darwin/arm64` |
-| [smolvm-1.34.0-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.34.0/smolvm-1.34.0-linux-arm64.tar.gz) | 43.2 MiB | `native/linux/arm64` |
-| [smolvm-1.34.0-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.34.0/smolvm-1.34.0-linux-x86_64.tar.gz) | 45.2 MiB | `native/linux/x64` |
-| [smolvm-1.34.0-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.34.0/smolvm-1.34.0-windows-x86_64.zip) | 41.1 MiB | `native/win/x64` |
+| [checksums.sha256](https://github.com/smol-machines/smolvm/releases/download/v1.34.1/checksums.sha256) | 398 B | `other` |
+| [smolvm-1.34.1-darwin-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.34.1/smolvm-1.34.1-darwin-arm64.tar.gz) | 39.3 MiB | `native/darwin/arm64` |
+| [smolvm-1.34.1-linux-arm64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.34.1/smolvm-1.34.1-linux-arm64.tar.gz) | 43.5 MiB | `native/linux/arm64` |
+| [smolvm-1.34.1-linux-x86_64.tar.gz](https://github.com/smol-machines/smolvm/releases/download/v1.34.1/smolvm-1.34.1-linux-x86_64.tar.gz) | 45.6 MiB | `native/linux/x64` |
+| [smolvm-1.34.1-windows-x86_64.zip](https://github.com/smol-machines/smolvm/releases/download/v1.34.1/smolvm-1.34.1-windows-x86_64.zip) | 41.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for smolvm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:14:32Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T08:23:37Z._
